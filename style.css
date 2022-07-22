@@ -122,24 +122,39 @@ header{
   }
 h1, h2{
     text-align: center;
+    line-height: 2;
 }
 .step{
     margin: 5px;
     padding: 5px;
     background-color: skyblue;
+    border-radius: 10px;}
+.step2{
+    text-align: center;
+    line-height: 2;
+
 }
-.step2 h1{
-    color: orange;
+.step3{
+    text-align: center;
+    line-height: 2;
 }
-.step3 h1{
-    color: orange;
-}
-.step4 h1{
-    color: orange;
+.step4{
+    text-align: center;
+    line-height: 2;
 }
 .pera1{
     background-color: skyblue;
     color: white;
     padding: 5px;
     text-align: center;
+}
+.step5{
+    color: white;
+    line-height: 2;
+    text-align: center;
+}
+.step6{
+    color: white;
+    text-align: center;
+    line-height: 2;
 }
