@@ -43,23 +43,7 @@ header{
     position: absolute;
     left: 25px;
 }
-.profile{
 
-    width: 100%;
-    display: flex;
-    justify-content: right;  
-    position: absolute;
-    top: 70px;
-    right: 5px;
-}
-.profile img{
-    width: 30%;
-    display: block;
-    display: flex;
-    border: 5px solid gray;
-    border-radius: 250px;
-    
-}
 
 @media (max-width: 720px) {
     body {
